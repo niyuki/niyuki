@@ -13,4 +13,5 @@
 
 ***DEUTSCH -*** Hey Leute und Willkommen auf meinem Github Profil. Ich bin 17 und spreche deutsch, englisch und türkisch. Aber hier werde ich nicht alles posten was ich mache, meistens lasse ich private Sachen raus.. Jedoch bin ich hier um euch selbstbenutzte und entwickelte Projekte zum Scheinen zu bringen. Macht euch keine Sorgen wenn ihr es benutzen wollt. Es ist hauptsächlich für Discord.js / Discord Bots ausgelegt, den Rest werde ich noch lernen und nach Möglichkeit auch veröffentlichen wie die anderen Sachen. Bei Fragen oder Anfragen bin ich auf Discord erreichbar klickt einfach auf den Knopf oben. Wenn du magst kannst du auch mein Package benutzen um einen schnellen Bot in weniger als einer Minute bereit zu haben (Kannst auf den roten Knopf drücken für Details).
 
-
+![Niyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyuki&show_icons=true&theme=merko&border_color=39ff14)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyuki&layout=compact&text_color=39ff14&title_color=39ff14&bg_color=0A0F0B&border_color=39ff14)](https://github.com/niyuki)
