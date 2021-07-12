@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src=https://user-images.githubusercontent.com/75905663/120483965-e47e2780-c3b2-11eb-8a98-c308edf70edd.gif></h2>
-<h1 align="center">ＮＩＹＵＫＩ (k-kod bilgim y0q)</h1>
+<h1 align="center">ＮＩＹＵＫＩ (retard)</h1>
 
 <p align="center">
   <a href="https://discord.gg/QXghTbvpGU"><img src="https://img.shields.io/badge/Serendia%20Squad%20-006400.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
