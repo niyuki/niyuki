@@ -1,7 +1,10 @@
 
 <h1 align="center">ＮＩＹＵＫＩ (retard)</h1>
+<div align="center">
+    <a href="https://discord.com/users/730448609790787585" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/730448609790787585/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+</div>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/730448609790787585)](https://discord.com/users/730448609790787585)
+
 
 <p align="center">
   <a href="https://discord.gg/QXghTbvpGU"><img src="https://img.shields.io/badge/Serendia%20Squad%20-006400.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
