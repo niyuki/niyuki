@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src=https://user-images.githubusercontent.com/75905663/120483965-e47e2780-c3b2-11eb-8a98-c308edf70edd.gif></h2>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:730448609790787585)](https://discord.com/users/:730448609790787585)
 <h1 align="center">ＮＩＹＵＫＩ (retard)</h1>
 
 <p align="center">
