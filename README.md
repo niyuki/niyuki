@@ -14,4 +14,3 @@
 </p>
 
 ![Niyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyuki&show_icons=true&theme=merko&border_color=39ff14)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyuki&layout=compact&text_color=68B487&title_color=97B901&bg_color=0A0F0B&border_color=39ff14)](https://github.com/niyuki)
